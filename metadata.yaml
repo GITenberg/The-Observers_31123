@@ -1,0 +1,26 @@
+_repo: The-Observers_31123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vandenburg, G. L.
+    alias: Vandenberg, G. L.
+    gutenberg_agent_id: '25429'
+    url: http://www.gutenberg.org/2009/agents/25429
+description: ''
+gutenberg_issued: '2010-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Observers
+url: http://www.gutenberg.org/ebooks/31123
