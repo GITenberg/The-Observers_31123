@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25429'
     url: http://www.gutenberg.org/2009/agents/25429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31123#The-Observers
 gutenberg_issued: '2010-01-30'
 gutenberg_type: Text
 identifiers:
